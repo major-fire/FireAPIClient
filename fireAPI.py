@@ -135,6 +135,3 @@ class FireBusinessAPI(object):
         return response
 
 
-
-def payPerson(client, payee):
-    client.makeBatch()
